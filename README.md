@@ -12,6 +12,4 @@ It includes simulation environments and reinforcement learning approaches for ke
 
 ## Overview
 
-We start from simplified heuristic methods (Random, Greedy, Degree-weighted)  
-and gradually move toward **Deep Reinforcement Learning (DQN)** solutions  
-for various graph types (line, star, and random networks).
+We start from simplified heuristic methods (Random, Greedy, Degree-weighted) and gradually move toward **Deep Reinforcement Learning (DQN)** solutions  for various graph types (line, star, and random networks).
