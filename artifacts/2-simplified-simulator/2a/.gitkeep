@@ -1,4 +1,0 @@
-mkdir artifacts
-touch artifacts/.gitkeep
-git add artifacts/.gitkeep
-git commit -m "Add empty artifacts dir"
